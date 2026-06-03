@@ -9,7 +9,7 @@ A collection of AI agent skills for Claude Code, powered by Hermes Agent.
 | `ask-get` / 拷问 | Challenge and stress-test your ideas by finding weaknesses |
 | `polish-get` / 润色 | Polish rough text into professional, fluent copy |
 | `review-get` / 审阅 | Code review for correctness, reuse, and simplification |
-| `seed-get` / 种下想法 | Plant a seed idea and let it grow into a full write-up |
+| `seed-get` / 种下想法 | Plant a seed idea and watch it sprout into a full write-up |
 
 ## Structure
 
