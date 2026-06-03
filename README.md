@@ -13,15 +13,15 @@ A collection of AI agent skills for Claude Code, powered by Hermes Agent.
 
 ## Structure
 
-```
+\`\`\`
 apex-skills/
 ├── README.md
 └── skills/
-    ├── ask-get/       — 拷问工具
-    ├── polish-get/    — 润色工具
-    ├── review-get/    — 审阅工具
-    └── seed-get/      — 种下想法
-```
+    ├── ask-get/       — 拷问
+    ├── polish-get/    — 润色
+    ├── review-get/    — 审阅
+    └── seed-get/      — 发芽
+\`\`\`
 
 ## Usage
 
